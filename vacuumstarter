@@ -1,0 +1,5 @@
+{
+"entity_id":"vacuum.xiaomi_vacuum_cleaner",
+"command":"app_goto_target",
+"params":[23500,25200]
+}
